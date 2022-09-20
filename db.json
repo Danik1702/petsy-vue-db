@@ -1,0 +1,137 @@
+{
+  "pets": [
+    {
+      "id": 0,
+      "breed": "Pug",
+      "characteristics": {
+        "popularity": 4,
+        "training": 2,
+        "size": 2,
+        "mind": 3,
+        "security": 2,
+        "relationshipWithChildren": 5,
+        "agility": 1,
+        "difficulty": 2
+      },
+      "observation": {
+        "country": "China",
+        "lifetime": "12 - 15",
+        "height": "20 - 25",
+        "weight": "6 - 8",
+        "cost": "300 - 2500",
+        "maintenanceCost": "34",
+        "careTime": "1"
+      },
+      "description": "Pug is a very ancient and world famous breed. How exactly these dogs originated is still unclear. But perhaps they were obtained by crossing other breeds in ancient China, during the Han Dynasty.",
+      "careFeatures": {
+        "combingWool": "1 - 2 times per week",
+        "bathing": "1 - 2 times per week",
+        "cleanTheEars": false
+      },
+      "possibleProblems": [
+        "Skin disease caused by a small mite",
+        "Pug encephalitis",
+        "Nerve degeneration",
+        "Corneal ulcers",
+        "Keratoconjunctivitis",
+        "Pigmentary keratitis"
+      ],
+      "careNorms": {
+        "weight": "6-8",
+        "numberOfWalks": "1-2",
+        "eatTimes": "2-3",
+        "portionWeight": "100-200",
+        "breedCare": "Caring for this breed is not too troublesome. It is enough to comb wool in a day, and even less often. More often it should be done only during the molting period, which traditionally increases twice a year. Once a month the dog can be washed. However, you should pay attention to the folds, which many pugs. Dirt and dust should be carefully cleaned between the folds so that bacteria do not multiply in these places and do not provoke infections. And from time to time treat the nasal fold with hydrogen peroxide. Also, it is recommended to wipe the eyes with a cotton swab pre-soaking it in weak tea. From time to time you need to clean the ears, trim the claws. As for walks and their duration, a leisurely walk can last an hour and a half, but an active run is no longer than fifteen minutes. It is desirable to walk twice a day, but sometimes once will be enough. The temperature indoors or outdoors should be treated very carefully, as severe overheating or hypothermia can be fatal for pugs. This is due to their short coat, which does not protect against the cold. And yet, the inability of the body to effectively remove excess heat. Therefore, in winter you should walk with a pug only in extra clothes, and in summer it is desirable to have air conditioning in the apartment."
+      },
+      "images": []
+    },
+    {
+      "id": 1,
+      "breed": "Saint Bernard",
+      "characteristics": {
+        "popularity": 2,
+        "training": 4,
+        "size": 5,
+        "mind": 4,
+        "security": 5,
+        "relationshipWithChildren": 4,
+        "agility": 3,
+        "difficulty": 4
+      },
+      "observation": {
+        "country": "Switzerland",
+        "lifetime": "8 - 10",
+        "height": "65 - 85",
+        "weight": "60 - 80",
+        "cost": "500 - 2000",
+        "maintenanceCost": "120",
+        "careTime": "2"
+      },
+      "description": "Loyal and obedient, the St. Bernard will be a great friend for the whole family: the dog gets along great with both adults and small children. The name of the breed comes from the monastery of St. Bernard in Switzerland, next to which these dogs lived. St. Bernards were used to rescue people who were covered by avalanches. In addition, the pupils felt the approach of this natural disaster, saving the lives of travelers.",
+      "careFeatures": {
+        "combingWool": "1 - 2 times per week",
+        "bathing": "1 - 2 times per week",
+        "cleanTheEars": false
+      },
+      "possibleProblems": [
+        "Hip and knee dysplasia",
+        "Dislocation of the patella",
+        "Congenital deafness",
+        "Epilepsy"
+      ],
+      "careNorms": {
+        "weight": "60-80",
+        "numberOfWalks": "3-4",
+        "eatTimes": "4-5",
+        "portionWeight": "500-700",
+        "breedCare": "A balanced diet is the key to the correct and healthy growth of a pet, so it is necessary to prepare a diet taking into account all the needs of the dog. In high-quality foods of the holistic or super-premium classes, a complex of useful nutrients and vitamins, developed by professionals, is already present. For a St. Bernard, it is better to buy products suitable for dogs of large and giant breeds."
+      },
+      "images": []
+    },
+    {
+      "id": 2,
+      "breed": "Akita Inu",
+      "characteristics": {
+        "popularity": 3,
+        "training": 4,
+        "size": 5,
+        "mind": 3,
+        "security": 5,
+        "relationshipWithChildren": 5,
+        "agility": 3,
+        "difficulty": 5
+      },
+      "observation": {
+        "country": "Japan",
+        "lifetime": "10 - 12",
+        "height": "64 - 70",
+        "weight": "23 - 39",
+        "cost": "800 - 3000",
+        "maintenanceCost": "150",
+        "careTime": "1"
+      },
+      "description": "Akita Inu is one of the oldest dog breeds on Earth, bred in the northern regions of Japan. This is a proud, strong and devoted pet..",
+      "careFeatures": {
+        "combingWool": "1 - 2 times per week",
+        "bathing": "1 - 2 times per week",
+        "cleanTheEars": false
+      },
+      "possibleProblems": [
+        "Hip dysplasia",
+        "Bloating",
+        "Glaucoma",
+        "Cataract",
+        "Pseudoparalytic myasthenia gravis (weakness of all muscles of the body)",
+        "Retinal atrophy"
+      ],
+      "careNorms": {
+        "weight": "23-39",
+        "numberOfWalks": "3-4",
+        "eatTimes": "4-5",
+        "portionWeight": "400-600",
+        "breedCare": "Caring for this breed is not too troublesome. It is enough to comb wool in a day, and even less often. More often it should be done only during the molting period, which traditionally increases twice a year. Once a month the dog can be washed. However, you should pay attention to the folds, which many pugs. Dirt and dust should be carefully cleaned between the folds so that bacteria do not multiply in these places and do not provoke infections. And from time to time treat the nasal fold with hydrogen peroxide. Also, it is recommended to wipe the eyes with a cotton swab pre-soaking it in weak tea. From time to time you need to clean the ears, trim the claws. As for walks and their duration, a leisurely walk can last an hour and a half, but an active run is no longer than fifteen minutes. It is desirable to walk twice a day, but sometimes once will be enough. The temperature indoors or outdoors should be treated very carefully, as severe overheating or hypothermia can be fatal for pugs. This is due to their short coat, which does not protect against the cold. And yet, the inability of the body to effectively remove excess heat. Therefore, in winter you should walk with a pug only in extra clothes, and in summer it is desirable to have air conditioning in the apartment."
+      },
+      "images": []
+    }
+  ]
+}
