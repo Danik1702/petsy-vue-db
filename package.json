@@ -1,0 +1,19 @@
+{
+  "name": "petsy-vue-db",
+  "version": "1.0.0",
+  "description": "petsy server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://petsy-vue-db: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@github.com/Danik1702/petsy-vue-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danik1702/petsy-vue-db/issues"
+  },
+  "homepage": "https://github.com/Danik1702/petsy-vue-db#readme"
+}
